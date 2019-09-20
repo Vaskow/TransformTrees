@@ -1,0 +1,127 @@
+﻿Build started 20.09.2019 18:53:17.
+     1>Project "G:\TreesBC\TreesBC\TreesBC.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TreesBC.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Form1.cpp /clr:nostdlib 
+         Form1.cpp
+     1>g:\treesbc\treesbc\Form1.h(286): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\treesbc\treesbc\Form1.h(294): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\treesbc\treesbc\Form1.h(403): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(403): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(417): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(417): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(427): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(427): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(436): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(436): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(653): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(653): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(666): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(666): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(681): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(681): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(744): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(744): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(745): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(745): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(746): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(746): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(747): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(747): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(763): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(763): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(764): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(764): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(765): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(765): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(766): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(766): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(785): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(785): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(786): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(786): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(787): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(787): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(788): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(788): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(805): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(805): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(806): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(806): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(807): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(807): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(808): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(808): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(914): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\treesbc\treesbc\Form1.h(938): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\treesbc\treesbc\Form1.h(945): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\treesbc\treesbc\Form1.h(947): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\treesbc\treesbc\Form1.h(1162): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1162): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1175): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1175): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1190): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1190): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1314): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1314): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1328): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1328): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1338): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1338): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(872): warning C4101: 'masVerh' : unreferenced local variable
+     1>g:\treesbc\treesbc\Form1.h(1405): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1405): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1406): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1406): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1407): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1407): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1408): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1408): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1424): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1424): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1425): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1425): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1426): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1426): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1427): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1427): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1446): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1446): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1447): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1447): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1448): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1448): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1449): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1449): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1466): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1466): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1467): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1467): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1468): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1468): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1469): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>g:\treesbc\treesbc\Form1.h(1469): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Form1.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(array<System::String^>^ argv)'
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\TreesBC\Debug\TreesBC.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\TreesBC.Form1.resources /MANIFEST /ManifestFile:"Debug\TreesBC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\TreesBC\Debug\TreesBC.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\ComBinTrees.obj
+         Debug\Form1.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         TreesBC.vcxproj -> G:\TreesBC\Debug\TreesBC.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\TreesBC\Debug\TreesBC.exe;#1" /manifest Debug\TreesBC.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\TreesBC.unsuccessfulbuild".
+         Touching "Debug\TreesBC.lastbuildstate".
+     1>Done Building Project "G:\TreesBC\TreesBC\TreesBC.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.86
